@@ -1,0 +1,9 @@
+{
+  "name": "alert-test",
+  "version": "1.0.3",
+  "description": "Module for test of registry",
+  "main": "index.js",
+  "author": "Yeinso Blanco",
+  "license": "MIT",
+  "private": false
+}
